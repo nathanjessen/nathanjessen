@@ -59,6 +59,10 @@
   </tbody>
 </table>
 
+## 👷 - Currently working on
+
+- Creating a Cardano stake pool
+
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/njessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
