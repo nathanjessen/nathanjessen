@@ -63,6 +63,12 @@
 
 - Creating a Cardano stake pool
 
+## Interested in
+
+- Cryptocurrencies
+- Identity management solutions
+- Solving tough problems
+
 ## Follow me
 
 <a href="https://www.linkedin.com/in/njessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
