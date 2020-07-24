@@ -65,6 +65,7 @@
 - Cardano weekly newsletter
 - AI generated news text
 - AI generated YouTube videos from text
+- DCA calculator
 
 ## Interested in
 
