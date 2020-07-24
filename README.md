@@ -62,6 +62,9 @@
 ## Currently working on
 
 - Creating a Cardano stake pool
+- Cardano weekly newsletter
+- AI generated news text
+- AI generated YouTube videos from text
 
 ## Interested in
 
