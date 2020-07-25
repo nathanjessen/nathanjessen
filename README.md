@@ -63,6 +63,7 @@
 
 - Creating a Cardano stake pool
 - Cardano weekly newsletter
+- Consulting website for Cardano related opportunities
 - AI generated news text
 - AI generated YouTube videos from text
 - DCA calculator
