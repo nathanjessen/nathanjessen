@@ -60,7 +60,6 @@
 ## Currently working on
 
 - Creating a Cardano stake pool hosted on AWS
-- Cardano weekly newsletter
 - Consulting website for Cardano related opportunities
 - AI generated news text
 - AI generated YouTube videos from text
