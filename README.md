@@ -61,9 +61,6 @@
 
 - Creating a Cardano stake pool hosted on AWS
 - Consulting website for Cardano related opportunities
-- AI generated news text
-- AI generated YouTube videos from text
-- DCA calculator
 
 ## Interested in
 
