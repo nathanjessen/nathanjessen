@@ -61,12 +61,12 @@
 
 - Creating a Cardano stake pool hosted on AWS
 - Consulting website for Cardano related opportunities
+- dApp for Cardano network
 
 ## Interested in
 
 - Cryptocurrencies
 - Identity management solutions
-- Solving tough problems
 
 ## Follow me
 
