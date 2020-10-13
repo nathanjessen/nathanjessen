@@ -4,20 +4,12 @@
   <tbody>
     <tr valign="top">
       <td width="16%" align="center">
-        <strong>HTML5</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <strong>React</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="16%" align="center">
-        <strong>CSS3</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>JavaScript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <strong>TailwindCSS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="16%" align="center">
         <strong>Git</strong><br><br><br>
@@ -26,24 +18,6 @@
       <td width="16%" align="center">
         <strong>VS Code</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="16%" align="center">
-        <strong>Sass/Scss</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Less</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>TailwindCSS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Material UI</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/material-ui.svg">
       </td>
       <td width="16%" align="center">
         <strong>Webpack</strong><br><br><br>
@@ -54,12 +28,39 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/eslint.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="16%" align="center">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Material UI</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>CSS3</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Sass/Scss</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>JavaScript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>HTML5</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
 ## Currently working on
 
 - dApp for Cardano network
+- OpenSea integration for [Octo.fi dApp](https://github.com/octofi/octofi-app-aquafarm)
 
 ## Interested in
 
