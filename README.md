@@ -18,7 +18,7 @@
 
 ## Currently working on
 
-- dApp for Cardano network
+- Portfolio manager
 
 ## Follow me
 
