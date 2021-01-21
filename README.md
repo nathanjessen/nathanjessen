@@ -1,24 +1,20 @@
 ## My Tech Stack
 
 <ul>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/react.svg"> React</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/typescript.svg"> Typescript</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> Tailwind CSS</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/git-icon.svg"> Git</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> VS Code</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/webpack.svg"> Webpack</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/sass.svg"> Sass</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/eslint.svg"> Eslint</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/vue.svg"> Vue</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/material-ui.svg"> Material UI</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/css-3.svg"> CSS3</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript</li>
-  <li><img height="14px" src="https://cdn.svgporn.com/logos/html-5.svg"> HTML5</li>
+  <li>React</li>
+  <li>Typescript</li>
+  <li>Tailwind CSS</li>
+  <li>Git</li>
+  <li>VS Code</li>
+  <li>Webpack</li>
+  <li>Sass</li>
+  <li>Eslint</li>
+  <li>Vue</li>
+  <li>Material UI</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>HTML5</li>
 </ul>
-
-## Currently working on
-
-- Portfolio manager
 
 ## Follow me
 
