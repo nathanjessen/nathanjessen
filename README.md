@@ -1,14 +1,28 @@
-## My Tech Stack
+# Nathan Jessen
 
-<ul>
-  <li><a href="https://reactjs.org/" target="_blank">React</a></li>
-  <li><a href="https://www.typescriptlang.org/" target="_blank">Typescript</a></li>
-  <li><a href="https://storybook.js.org/" target="_blank">Storybook</a></li>
-  <li><a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a></li>
-  <li><a href="https://styled-components.com/" target="_blank">Styled Components</a></li>
-  <li><a href="https://sass-lang.com/" target="_blank">Sass</a></li>
-  <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
-  <li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></li>
-  <li><a href="https://webpack.js.org/" target="_blank">Webpack</a></li>
-  <li><a href="https://eslint.org/" target="_blank">Eslint</a></li>
-</ul>
+Senior Software Engineer passionate about creating beautiful, accessible, and performant web applications.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/njessen/)
+
+## About Me
+
+I'm a Senior Software Engineer with expertise in building modern web applications. I focus on creating clean, maintainable code and delivering exceptional user experiences.
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Windsurf](https://img.shields.io/badge/-Windsurf-4B32C3?style=flat&logo=windsurf&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+
+## Featured Project
+
+- 🚀 A Place for Mom - Senior living advisory service helping families find the right care solutions. Built with Node, React, TypeScript, and Sass, focusing on accessibility and performance optimization.
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanjessen&show_icons=true&theme=dark)
