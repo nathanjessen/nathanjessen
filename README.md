@@ -21,6 +21,3 @@ I'm a Senior Software Engineer with 13+ years of experience building high-traffi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanjessen&show_icons=true&theme=dark)
