@@ -2,8 +2,8 @@
 
 AI-Native Engineer shipping production software with Next.js and agentic workflows. Based in Austin, TX.
 
-[![Portfolio](https://img.shields.io/badge/-nathanjessen.com-059669?style=flat&logoColor=white)](https://www.nathanjessen.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/njessen/)
+[![Portfolio](https://img.shields.io/badge/-nathanjessen.com-059669?style=flat&logoColor=white)](https://www.nathanjessen.com/)
 
 ## About Me
 
